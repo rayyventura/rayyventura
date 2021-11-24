@@ -6,5 +6,5 @@
  👩🏻‍💻 I can impact society in a positive way and bring technology even closer to our needs.<br> 
  
 ## Familiar with:
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" style="width:50px;"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" style="width:50px;"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" style="width:50px;"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" style="width:60px;"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" style="width:50px;"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" style="width:50px;"> 
 
