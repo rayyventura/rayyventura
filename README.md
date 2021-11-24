@@ -1,4 +1,4 @@
-## Make yourself at home...👩🏻‍💻
+## Welcome here, Make yourself at home...👩🏻‍💻
 
  👋 Hi,  I'm Rayane Ventura, a Full Stack Developer student that loves to dive into new things.<br> 
  🤩 I'm passionate about solving problems. Specially if they help others, and not only me.<br> 
