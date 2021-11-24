@@ -3,7 +3,7 @@
  👋 Hi,  I'm Rayane Ventura, a Full Stack Developer student that loves to dive into new things.<br> 
  🤩 I'm passionate about solving problems. Specially if they help others, and not only me.<br> 
  🌻 I've made the right decision by chosing to be a Developer, once I know that through my skills...<br> 
- 👩🏻‍💻 I can impact society in a positive way and bring technology even closer to our needs.<br> 
+ 🔐 I can impact society in a positive way and bring technology even closer to our needs.<br> 
  
 ## Familiar with:
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" style="width:60px;"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" style="width:55px;"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" style="width:55px;"> 
