@@ -40,6 +40,12 @@
   <img align="center" alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img align="center" alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
  </div><br/>
+ 
+ ## Contact me:
+ 
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rayane-ventura27/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayyventura@gmail.com)
+ 
 <div align="center" height="225em" style="display: flex; align-items:center;">
   <img align="center" alt="Rayane Ventura GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rayyventura&show_icons=true&theme=dracula&count_private=true" />
   <img  align="center"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyventura&theme=dracula&hide_langs_below=1" />
