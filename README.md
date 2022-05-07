@@ -43,7 +43,6 @@
  ## Contact me:
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-ventura27/)
-[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayyventura@gmail.com)
  
 <div align="center" height="225em" style="display: flex; align-items:center;">
   <img align="center" alt="Rayane Ventura GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rayyventura&show_icons=true&theme=dracula&count_private=true" />
