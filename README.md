@@ -19,10 +19,9 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
  
 </div><br/>
-<div align="center" >
+<div align="center" style="display: flex;">
  
 ![Rayane Ventura GitHub stats](https://github-readme-stats.vercel.app/api?username=rayyventura&show_icons=true&theme=dracula&count_private=true)
- 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyventura&theme=dracula&hide_langs_below=1" />
 </a>
