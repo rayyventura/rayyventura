@@ -20,10 +20,9 @@
  
 </div><br/>
 <div align="center" style="display: flex; align-items:center;">
- 
-![Rayane Ventura GitHub stats](https://github-readme-stats.vercel.app/api?username=rayyventura&show_icons=true&theme=dracula&count_private=true)
+  <img height="205em" alt="Rayane Ventura GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rayyventura&show_icons=true&theme=dracula&count_private=true" />
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyventura&theme=dracula&hide_langs_below=1" />
+  <img  height="205em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyventura&theme=dracula&hide_langs_below=1" />
 </a>
  
  </div>
