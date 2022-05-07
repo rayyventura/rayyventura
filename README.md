@@ -19,7 +19,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
  
 </div><br/>
-<div align="center" display="flex">
+<div align="center" >
  
 ![Rayane Ventura GitHub stats](https://github-readme-stats.vercel.app/api?username=rayyventura&show_icons=true&theme=dracula&count_private=true)
  
