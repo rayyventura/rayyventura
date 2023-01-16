@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/04d2c7a5-d28c-4cdb-aa03-0583bd21c59e.svg)](https://wakatime.com/@04d2c7a5-d28c-4cdb-aa03-0583bd21c59e)
+<img src="https://komarev.com/ghpvc/?username=rayyventura&color=blue" alt="Profile Views">
 ## Welcome here! Make yourself at home...👩🏻‍💻
 
  👋 Hi,  I'm Rayane Ventura, a Full Stack Software Engineer that loves to dive into new things.<br> 
