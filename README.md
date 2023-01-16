@@ -45,8 +45,13 @@
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-ventura27/)
  
-<div align="center" height="225em" style="display: flex; align-items:center;">
-  <img align="center" alt="Rayane Ventura GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rayyventura&show_icons=true&theme=dracula&count_private=true" />
-  <img  align="center"  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyventura&theme=dracula&hide_langs_below=1" />
+<div align="center">
+
+  <img height="205em" alt="rayventura Github Status" src="https://github-readme-stats.vercel.app/api?username=rayyventura&show_icons=true&hide_border=true" />
+
+  <img height="205em" alt="rayventura Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyventura" />
+
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayyventura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="rayyventura_contribution_streak" />
  
  </div>
