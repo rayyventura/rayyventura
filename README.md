@@ -48,8 +48,6 @@
  
 <div align="center">
 
-  <img height="205em" alt="rayventura Github Status" src="https://github-readme-stats.vercel.app/api?username=rayyventura&show_icons=true&hide_border=true" />
-
   <img height="205em" alt="rayventura Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyventura" />
 
 
