@@ -37,8 +37,5 @@
 <div align="center">
 
   <img height="205em" alt="rayventura Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyventura" />
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayyventura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="rayyventura_contribution_streak" />
  
  </div>
