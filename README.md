@@ -34,8 +34,3 @@
  
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-ventura27/)
  
-<div align="center">
-
-  <img height="205em" alt="rayventura Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyventura" />
- 
- </div>
