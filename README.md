@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/04d2c7a5-d28c-4cdb-aa03-0583bd21c59e.svg)](https://wakatime.com/@04d2c7a5-d28c-4cdb-aa03-0583bd21c59e)
 <img src="https://komarev.com/ghpvc/?username=rayyventura&color=blue" alt="Profile Views">
-## Hi
+## Hey, you
 
  👋 Hi,  I'm Rayane Ventura (pronounced as hi-ane-e), a Full Stack Software Engineer that loves to dive into new things.<br> 
  🤩 I'm passionate about solving problems. Specially if they help others, and not only me.<br> 
