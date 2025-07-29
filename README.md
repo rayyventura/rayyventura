@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=rayyventura&color=blue" alt="Profile Views">
 ## Hey, you
 
- 👋 Hi,  I'm Rayane Ventura (pronounced as hi-ane-e), a Full Stack Software Engineer that loves to dive into new things.<br> 
+ 👋 I'm Rayane Ventura (pronounced as hi-ane-e), a Full Stack Software Engineer that loves to dive into new things.<br> 
  🤩 I'm passionate about solving problems. Specially if they help others, and not only me.<br> 
  🌻 I've made the right decision by chosing to be a Developer, once I know that through my skills...<br> 
  🔐 I can impact society in a positive way and bring technology even closer to our needs.<br> 
